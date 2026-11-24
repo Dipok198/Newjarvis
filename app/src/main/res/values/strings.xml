@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Misti</string>
+    <string name="control_label">Misti Phone Control (A-to-Z)</string>
+    <string name="control_description">Lets Misti read your screen, unlock with your voice PIN, save contacts, tap, type, scroll, and control your phone when you ask.</string>
+</resources>
